@@ -3,5 +3,6 @@ using namespace std;
 
 int main() 
 {
-    
+    //langkah1
+    int luas, panjang, lebar;
 }
